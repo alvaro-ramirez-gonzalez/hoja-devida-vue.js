@@ -60,6 +60,8 @@ function react(type) {
           <div><dt>Nombre completo</dt><dd>Álvaro Ramírez González</dd></div>
           <div><dt>Correo de contacto</dt><dd><a href="mailto:alvarodavidgonzalez@gmail.com">alvarodavidgonzalez@gmail.com</a></dd></div>
           <div><dt>Teléfono</dt><dd><a href="tel:+573243025424">324 302 5424</a></dd></div>
+          <div><dt>Ubicación</dt><dd>Cartagena de Indias, Colombia</dd></div>
+          <div><dt>Género</dt><dd>Masculino</dd></div>
         </dl>
       </section>
 
@@ -119,7 +121,7 @@ function react(type) {
             <div>
               <h3>Desarrollador frontend y backend</h3>
               <p class="institution">Desarrollo de aplicaciones web</p>
-              <p>Experiencia en desarrollo frontend y backend, trabajando con frameworks, lenguajes de programación y bases de datos.</p>
+              <p>He trabajado en la creación de interfaces y en la lógica de aplicaciones web. También he utilizado bases de datos para organizar y consultar información.</p>
               <div class="tags"><span>Angular</span><span>React</span><span>Java</span><span>PHP</span><span>Python</span><span>MySQL</span></div>
             </div>
           </article>
@@ -128,7 +130,7 @@ function react(type) {
             <div>
               <h3>Desarrollo para Android</h3>
               <p class="institution">Proyectos de aplicaciones sencillas</p>
-              <p>Creación de aplicaciones móviles básicas usando Android Studio y Kotlin.</p>
+              <p>He creado aplicaciones móviles básicas con Android Studio y Kotlin, trabajando en sus pantallas y funciones principales.</p>
               <div class="tags"><span>Android Studio</span><span>Kotlin</span><span>HTML</span></div>
             </div>
           </article>
